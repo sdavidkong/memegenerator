@@ -1,5 +1,5 @@
 import React from "react"
-import './App.css';
+import './index.css';
 import Header from "./components/header.js"
 import Meme from "./components/meme.js"
 
